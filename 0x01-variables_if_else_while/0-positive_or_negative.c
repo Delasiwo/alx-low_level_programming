@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main - Betty style doc
+* main - A test c file
 * Return - 0 signifying program success
 */
 int main(void)
