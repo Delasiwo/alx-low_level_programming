@@ -1,16 +1,16 @@
 #include <stdio.h>
 /**
- * main - Numbers should be printed in ascending order 
+ * main - Numbers should be printed in ascending order.
 (*
  * Return: 0 on success
  */
 int main(void)
-
 {
 	int i = '0';
+
 	while (i <= '9')
 	{
-          	putchar(i);
+		putchar(i);
 		if (i != '9')
 		{
 			putchar(',');
@@ -21,4 +21,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
